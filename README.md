@@ -4,7 +4,7 @@ Every dashboard in my portfolio starts from this template. It sets the layout, n
 
 I think of myself as a designer for data. Communication is measured by how it's received, so the goal is a report anyone outside of IT and analytics can understand at a glance. This template is where that starts.
 
-![Template layout](images/01-template-layout.png)
+![Template layout](01-template-layout.png)
 
 ## Layout
 
