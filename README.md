@@ -46,12 +46,10 @@ Every report built from this template opens on a home page instead of dropping p
 
 | Report | Source system |
 |---|---|
-| [Healthcare Claims](../01-healthcare-claims-epic) | Epic |
-| [ERP Financials](../02-erp-financials-business-central) | Microsoft Dynamics 365 Business Central |
-| [Help Desk CSAT](../03-help-desk-csat-manageengine) | ManageEngine ServiceDesk Plus |
-| [Network Monitor](../04-network-monitor-solarwinds) | SolarWinds Orion |
-
-<!-- Swap these relative links for the full GitHub repo URLs once each repo is live. -->
+| [Healthcare Claims](https://github.com/franklinbusi/Epic-Healthcare-Claims) | Epic |
+| [ERP Financials](https://github.com/franklinbusi/NAV365-ERP-Financials) | Microsoft Dynamics 365 Business Central |
+| [Help Desk CSAT](https://github.com/franklinbusi/ManageEngine-Help-Desk-CSAT) | ManageEngine ServiceDesk Plus |
+| [Network Monitor](https://github.com/franklinbusi/SolarWinds-Network-Monitor-Metrics) | SolarWinds Orion |
 
 ## How the data flows
 
